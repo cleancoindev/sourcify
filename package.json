@@ -48,7 +48,7 @@
   "homepage": "https://github.com/ethereum/sourcify#readme",
   "dependencies": {
     "@ethereum-sourcify/core": "*",
-    "@ethereum-sourcify/validation": "*",
+    "@ethereum-sourcify/validation": "0.2.11",
     "@ethereum-sourcify/verification": "*",
     "@types/node-fetch": "^2.5.7",
     "bunyan": "^1.8.12",
